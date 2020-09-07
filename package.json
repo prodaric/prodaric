@@ -20,5 +20,14 @@
     "url": "https://github.com/prodaric/prodaric/issues"
   },
   "homepage": "https://github.com/prodaric/prodaric#readme",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.4.4",
+    "bootstrap": "^4.5.2",
+    "datatables.net": "^1.10.21",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
 }
