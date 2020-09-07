@@ -10,6 +10,7 @@
         }
     ],
     "require": {
-	"php": "^7"
+	"php": "^7",
+        "ckeditor/ckeditor": "^4.14"
     }
 }
