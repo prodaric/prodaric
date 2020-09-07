@@ -2,4 +2,4 @@
 ## The Productivity FrameWork
 Prodaric Framework
 
-[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v)](//packagist.org/packages/phpunit/phpunit) [![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](//packagist.org/packages/phpunit/phpunit) [![Latest Unstable Version](https://poser.pugx.org/phpunit/phpunit/v/unstable)](//packagist.org/packages/phpunit/phpunit) [![License](https://poser.pugx.org/phpunit/phpunit/license)](//packagist.org/packages/phpunit/phpunit)
+[![Latest Stable Version](https://poser.pugx.org/prodaric/prodaric/v)](//packagist.org/packages/prodaric/prodaric) [![Total Downloads](https://poser.pugx.org/prodaric/prodaric/downloads)](//packagist.org/packages/prodaric/prodaric) [![Latest Unstable Version](https://poser.pugx.org/prodaric/prodaric/v/unstable)](//packagist.org/packages/prodaric/prodaric) [![License](https://poser.pugx.org/prodaric/prodaric/license)](//packagist.org/packages/prodaric/prodaric)
