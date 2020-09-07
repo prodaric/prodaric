@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/prodaric/prodaric/issues"
   },
-  "homepage": "https://github.com/prodaric/prodaric#readme"
+  "homepage": "https://github.com/prodaric/prodaric#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
