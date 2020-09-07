@@ -1,0 +1,23 @@
+{
+  "name": "prodaric",
+  "version": "1.0.0",
+  "description": "Prodaric The Productivity Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prodaric/prodaric.git"
+  },
+  "keywords": [
+    "Framework",
+    "Productivity"
+  ],
+  "author": "Neftalí Yagua <despacho@neftaliyagua.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prodaric/prodaric/issues"
+  },
+  "homepage": "https://github.com/prodaric/prodaric#readme"
+}
